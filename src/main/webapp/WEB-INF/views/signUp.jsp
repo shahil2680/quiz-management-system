@@ -13,7 +13,7 @@
         body {
             background: #0a0f1e; font-family: 'Inter', sans-serif; color: #e2e8f0;
             min-height: 100vh; display: flex; align-items: center; justify-content: center; padding: 24px;
-            position: relative; overflow: hidden;
+            position: relative;
         }
         .bg-blob { position:fixed;border-radius:50%;filter:blur(80px);opacity:0.12;pointer-events:none; }
         .blob1 { width:500px;height:500px;background:#6366f1;top:-150px;left:-100px; }
