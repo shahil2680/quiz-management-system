@@ -15,6 +15,7 @@
     <groupId>com.priya</groupId>
     <artifactId>OnlineExamSystem</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>war</packaging>
     <name>OnlineExamSystem</name>
     <description>Online Exam System</description>
 
